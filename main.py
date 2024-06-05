@@ -1,10 +1,8 @@
 import tkinter as tk
 import tkinter.font as tkFont
 
-
 def button_command():
-    print("command")
-
+    label["text"] = "Михайло"
 
 if __name__ == "__main__":
     root = tk.Tk()
