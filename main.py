@@ -2,7 +2,7 @@ import tkinter as tk
 import tkinter.font as tkFont
 
 def button_command():
-    label["text"] = "Михайло"
+    label["text"] = "Юрій"
 
 if __name__ == "__main__":
     root = tk.Tk()
